@@ -6,6 +6,7 @@
 2. [Git Commit Template Check​](https://plugins.jetbrains.com/plugin/14822-git-commit-template-check)
 3. [Background Image Plus](https://plugins.jetbrains.com/plugin/17512-background-image-plus)
 4. [CustomFunctionsForLiveTemplates](https://plugins.jetbrains.com/plugin/22539-customfunctionsforlivetemplates)
+5. [Easy Switcher](https://plugins.jetbrains.com/plugin/28009-easy-switcher)
 
 ## gradle插件
 
